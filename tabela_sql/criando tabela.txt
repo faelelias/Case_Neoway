@@ -1,0 +1,4 @@
+#criando uma tabela sql
+
+python3 01_create_db.py
+$ ls *.db
