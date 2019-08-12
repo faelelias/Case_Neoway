@@ -16,3 +16,7 @@ Ambiente
 Step1- Utilizando o vscode, executar o arquivo
 Step2- Utilizando o vscode, executar o arquivo
 Step3- - Utilizando o Postgre , DOCUMENTAÇÂO
+Step4 - Tratando os dados no Postgre
+Step5 – Efetuando Teste
+Step 6 – Criando tabela final
+
