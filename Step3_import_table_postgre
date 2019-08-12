@@ -1,0 +1,16 @@
+--Criando tabela teste
+--cabecalho
+-- criação da pre_tabela_final para manipulação de dados
+
+create table "public".pre_tabela_final
+(
+cpf varchar(50)
+,private varchar(50)
+,incompleto varchar(50)
+,data_da_ultima_compra varchar(50)
+,ticket_medio varchar(50)
+,ticket_da_ultima_compra varchar(50)
+,loja_mais_frequente varchar(50)
+,loja_da_ultima_compra varchar(50)
+);
+
