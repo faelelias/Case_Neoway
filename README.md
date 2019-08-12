@@ -20,3 +20,18 @@ Step4 - Tratando os dados no Postgre
 Step5 – Efetuando Teste
 Step 6 – Criando tabela final
 
+Referencias:
+VScode
+https://code.visualstudio.com/download
+
+Sublime Text
+https://code.visualstudio.com/download
+
+Pandas
+https://pandas.pydata.org/
+
+Postgree
+https://www.postgresql.org/
+
+Python
+https://www.python.org/
