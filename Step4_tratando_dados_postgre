@@ -1,0 +1,12 @@
+tratando os dados
+select 
+cast(cpf as varchar(14)) "CPF"
+,cast(private as integer) "PRIVATE"
+,cast(incompleto as integer) "INCOMPLETO"
+,cast(data_da_ultima_compra as date) "DATA_DA_ULTIMA_COMPRA"
+,cast(replace(ticket_medio,',','.') as decimal(10,2)) "TICKET_MEDIO"
+,cast(replace(ticket_da_ultima_compra,',','.') as decimal(10,2)) "TICKET_DA_ULTIMA_COMPRA"
+,cast(loja_mais_frequente as varchar(14)) "LOJA_MAIS_FREQUENTE"
+,cast(loja_da_ultima_compra as varchar(14)) "LOJA_DA_ULTIMA_COMPRA"
+
+from "public".teste
