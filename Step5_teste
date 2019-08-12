@@ -1,0 +1,2 @@
+--selecionando apenas cpf que efetuou compra
+where ticket_medio is not null
